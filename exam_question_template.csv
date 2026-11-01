@@ -1,0 +1,3 @@
+exam,type,question,option_a,option_b,option_c,option_d,correct_answer,explanation,image_url
+Sample Exam,mcq,Which part is the brain of the computer?,Monitor,CPU,Keyboard,Mouse,B,CPU processes instructions.,
+Sample Exam,theory,Explain two differences between hardware and software.,,,,,,"Hardware physical; software programs.",
