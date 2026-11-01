@@ -51,7 +51,6 @@ html, body, .stApp {
 }
 .stApp {
     min-height: 100vh !important;
-    background-color: #eaf1f8 !important;
     background-image: url("BG_IMAGE_PLACEHOLDER") !important;
     background-size: cover !important;
     background-position: center 42% !important;
