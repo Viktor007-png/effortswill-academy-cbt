@@ -105,7 +105,7 @@ else:
     _bg_css = _bg_css.replace('background-image: url("BG_IMAGE_PLACEHOLDER") !important;', '')
 
 st.markdown(
-    f"""
+    """
     <style>
     {_bg_css}
     .cbt-question {
